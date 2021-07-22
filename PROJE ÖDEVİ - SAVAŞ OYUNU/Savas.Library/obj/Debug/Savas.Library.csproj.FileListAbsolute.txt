@@ -1,0 +1,18 @@
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\obj\Debug\Savas.Library.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\obj\Debug\Savas.Library.pdb
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\obj\Debug\Savas.Library.csprojAssemblyReference.cache
+E:\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\bin\Debug\Savas.Library.dll
+E:\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\bin\Debug\Savas.Library.pdb
+E:\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\obj\Debug\Savas.Library.csprojAssemblyReference.cache
+E:\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\obj\Debug\Savas.Library.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\obj\Debug\Savas.Library.dll
+E:\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ(SAVAŞ OYUNU)\Savas\Savas.Library\obj\Debug\Savas.Library.pdb
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ - SAVAŞ OYUNU (b201200022)\Savas\Savas.Library\obj\Debug\Savas.Library.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ - SAVAŞ OYUNU (b201200022)\Savas\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ - SAVAŞ OYUNU (b201200022)\Savas\Savas.Library\obj\Debug\Savas.Library.pdb
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ - SAVAŞ OYUNU (b201200022)\Savas\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ - SAVAŞ OYUNU (b201200022)\Savas\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\Hp\Desktop\ÇALIŞMALARIM\PROJELERİM\C#\PROJE ÖDEVİ - SAVAŞ OYUNU (b201200022)\Savas\Savas.Library\obj\Debug\Savas.Library.csproj.AssemblyReference.cache
